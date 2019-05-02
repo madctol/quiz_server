@@ -16,15 +16,15 @@
   "author": "Santiago",
   "license": "Unlicense",
   "dependencies": {
-    "underscore": "^1.8.3",
-    "fs-extra": "^6.0.1",
     "archiver": "^3.0.0",
-    "mocha": "^5.2.0",
     "chai": "^4.1.2",
-    "sequelize": "^4.32.7",
+    "express": "^4.16.4",
+    "fs-extra": "^6.0.1",
+    "method-override": "^3.0.0",
+    "mocha": "^5.2.0",
+    "sequelize": "^5.7.0",
     "sqlite3": "^4.0.4",
-    "express": "^4.0.0",
-    "zombie": "^6.1.2",
-    "method-override": "^3.0.0"
+    "underscore": "^1.8.3",
+    "zombie": "^6.1.2"
   }
 }
